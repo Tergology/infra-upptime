@@ -1,7 +1,7 @@
-url: mine.${TLG_DOMAIN}
+url: mine.$TLG_DOMAIN
 status: down
 code: 0
 responseTime: 0
-lastUpdated: 2024-07-21T14:36:53.595Z
+lastUpdated: 2024-07-21T14:47:14.776Z
 startTime: 2024-07-21T14:36:53.592Z
 generator: Upptime <https://github.com/upptime/upptime>
