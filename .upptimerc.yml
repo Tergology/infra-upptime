@@ -3,33 +3,33 @@ repo: infra-upptime
 
 sites:
   - name: Web - main site
-    url: https://www.${TLG_DOMAIN}
+    url: https://www.$TLG_DOMAIN
   - name: Cloud
-    url: https://cloud.${TLG_DOMAIN}
+    url: https://cloud.$TLG_DOMAIN
   - name: Code
-    url: https://code.${TLG_DOMAIN}
+    url: https://code.$TLG_DOMAIN
   - name: Meet - web
-    url: https://meet.${TLG_DOMAIN}
+    url: https://meet.$TLG_DOMAIN
   - name: Meet - signaling
-    url: meet.${TLG_DOMAIN}
+    url: meet.$TLG_DOMAIN
     port: 5222
     check: "tcp-ping"
   - name: Meet - streaming
-    url: meet.${TLG_DOMAIN}
+    url: meet.$TLG_DOMAIN
     port: 8888
     check: "tcp-ping"
   - name: Mail - web
-    url: https://mail.${TLG_DOMAIN}
+    url: https://mail.$TLG_DOMAIN
   - name: Mail - boxes
-    url: mail.${TLG_DOMAIN}
+    url: mail.$TLG_DOMAIN
     port: 993
     check: "tcp-ping"
   - name: Mail - transfer
-    url: mail.${TLG_DOMAIN}
+    url: mail.$TLG_DOMAIN
     port: 587
     check: "tcp-ping"
   - name: Mine - test
-    url: mine.${TLG_DOMAIN}
+    url: mine.$TLG_DOMAIN
     port: 30000
     check: "tcp-ping"
 
