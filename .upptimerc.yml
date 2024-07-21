@@ -2,14 +2,10 @@ owner: Tergology
 repo: infra-upptime
 
 sites:
-  - name: Web - main site
-    url: https://www.$TLG_DOMAIN
   - name: Cloud
     url: https://cloud.$TLG_DOMAIN
   - name: Code
     url: https://code.$TLG_DOMAIN
-  - name: Meet
-    url: https://meet.$TLG_DOMAIN
   - name: Mail
     url: https://mail.$TLG_DOMAIN
   - name: Mail - store
@@ -20,6 +16,14 @@ sites:
     url: mail.$TLG_DOMAIN
     port: 587
     check: "tcp-ping"
+  - name: Meet
+    url: https://meet.$TLG_DOMAIN
+  - name: Web - OpenPGPKey
+    url: https://openpgpkey.$TLG_DOMAIN/.well-known/openpgpkey/$TLG_DOMAIN/hu/qpui546ptjbsz3rqaetbdz8wj9op6nur
+  - name: Web - AnnaKorshun
+    url: https://www.annakorshun.com
+  - name: Web - Tergology
+    url: https://www.$TLG_DOMAIN
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
