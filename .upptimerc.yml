@@ -18,11 +18,11 @@ sites:
     check: "tcp-ping"
   - name: Meet
     url: https://meet.$TLG_DOMAIN
-  - name: Web - OpenPGPKey
+  - name: Web - openpgpkey
     url: https://openpgpkey.$TLG_DOMAIN/.well-known/openpgpkey/$TLG_DOMAIN/hu/qpui546ptjbsz3rqaetbdz8wj9op6nur
-  - name: Web - AnnaKorshun
+  - name: Web - annakorshun
     url: https://www.annakorshun.com
-  - name: Web - Tergology
+  - name: Web - tergology
     url: https://www.$TLG_DOMAIN
 
 status-website:
