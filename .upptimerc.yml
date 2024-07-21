@@ -23,7 +23,7 @@ sites:
   - name: Web - annakorshun
     url: https://www.annakorshun.com
   - name: Web - tergology
-    url: https://www.$TLG_DOMAIN
+    url: https://www.tergology.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
