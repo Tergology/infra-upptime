@@ -10,14 +10,6 @@ sites:
     url: https://code.$TLG_DOMAIN
   - name: Meet - web
     url: https://meet.$TLG_DOMAIN
-  - name: Meet - signaling
-    url: meet.$TLG_DOMAIN
-    port: 5222
-    check: "tcp-ping"
-  - name: Meet - streaming
-    url: meet.$TLG_DOMAIN
-    port: 8888
-    check: "tcp-ping"
   - name: Mail - web
     url: https://mail.$TLG_DOMAIN
   - name: Mail - boxes
@@ -27,10 +19,6 @@ sites:
   - name: Mail - transfer
     url: mail.$TLG_DOMAIN
     port: 587
-    check: "tcp-ping"
-  - name: Mine - test
-    url: mine.$TLG_DOMAIN
-    port: 30000
     check: "tcp-ping"
 
 status-website:
