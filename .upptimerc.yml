@@ -8,11 +8,11 @@ sites:
     url: https://cloud.$TLG_DOMAIN
   - name: Code
     url: https://code.$TLG_DOMAIN
-  - name: Meet - web
+  - name: Meet
     url: https://meet.$TLG_DOMAIN
-  - name: Mail - web
+  - name: Mail
     url: https://mail.$TLG_DOMAIN
-  - name: Mail - boxes
+  - name: Mail - store
     url: mail.$TLG_DOMAIN
     port: 993
     check: "tcp-ping"
