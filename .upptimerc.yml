@@ -2,6 +2,8 @@ owner: Tergology
 repo: infra-upptime
 
 sites:
+  - name: Authentication
+    url: https://auth.$TLG_DOMAIN
   - name: Cloud
     url: https://cloud.$TLG_DOMAIN
   - name: Code
