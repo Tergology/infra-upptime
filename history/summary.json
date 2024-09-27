@@ -122,10 +122,10 @@
     "url": "https://meet.$TLG_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/meet.$tlg_domain.ico",
     "slug": "meet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 687,
@@ -133,16 +133,18 @@
     "timeWeek": 656,
     "timeMonth": 683,
     "timeYear": 687,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-27": 1
+    }
   },
   {
     "name": "Web - openpgpkey",
     "url": "https://openpgpkey.$TLG_DOMAIN/.well-known/openpgpkey/$TLG_DOMAIN/hu/qpui546ptjbsz3rqaetbdz8wj9op6nur",
     "icon": "https://icons.duckduckgo.com/ip3/openpgpkey.$tlg_domain.ico",
     "slug": "web-openpgpkey",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -151,7 +153,9 @@
     "timeWeek": 534,
     "timeMonth": 558,
     "timeYear": 556,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-27": 0
+    }
   },
   {
     "name": "Web - annakorshun",
