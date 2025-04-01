@@ -1,7 +1,7 @@
 url: https://code.$TLG_DOMAIN
-status: down
-code: 502
-responseTime: 469
-lastUpdated: 2025-04-01T05:55:22.263Z
+status: up
+code: 200
+responseTime: 607
+lastUpdated: 2025-04-01T06:19:54.061Z
 startTime: 2024-07-21T14:36:42.034Z
 generator: Upptime <https://github.com/upptime/upptime>
