@@ -1,7 +1,7 @@
 url: https://mail.$TLG_DOMAIN
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-25T21:20:51.638Z
+status: up
+code: 200
+responseTime: 572
+lastUpdated: 2025-06-25T21:33:59.923Z
 startTime: 2024-07-21T15:08:14.453Z
 generator: Upptime <https://github.com/upptime/upptime>
