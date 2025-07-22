@@ -1,7 +1,7 @@
 url: https://openpgpkey.$TLG_DOMAIN/.well-known/openpgpkey/$TLG_DOMAIN/hu/qpui546ptjbsz3rqaetbdz8wj9op6nur
 status: up
 code: 200
-responseTime: 466
-lastUpdated: 2025-07-21T23:17:04.617Z
+responseTime: 620
+lastUpdated: 2025-07-22T23:17:05.085Z
 startTime: 2024-07-21T15:24:32.599Z
 generator: Upptime <https://github.com/upptime/upptime>
