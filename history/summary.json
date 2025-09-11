@@ -60,16 +60,16 @@
     "status": "down",
     "uptime": "99.76%",
     "uptimeDay": "59.62%",
-    "uptimeWeek": "91.18%",
-    "uptimeMonth": "97.65%",
-    "uptimeYear": "99.74%",
+    "uptimeWeek": "91.04%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "99.73%",
     "time": 720,
     "timeDay": 639,
     "timeWeek": 723,
     "timeMonth": 719,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2025-09-11": 358,
+      "2025-09-11": 372,
       "2025-09-10": 531,
       "2025-09-02": 26,
       "2025-08-25": 27,
@@ -178,9 +178,9 @@
     "url": "https://meet.$TLG_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/meet.$tlg_domain.ico",
     "slug": "meet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -190,6 +190,7 @@
     "timeMonth": 748,
     "timeYear": 725,
     "dailyMinutesDown": {
+      "2025-09-11": 0,
       "2025-01-07": 19,
       "2024-09-27": 16
     }
@@ -201,9 +202,9 @@
     "slug": "web-openpgpkey",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 587,
     "timeDay": 513,
@@ -211,7 +212,7 @@
     "timeMonth": 631,
     "timeYear": 591,
     "dailyMinutesDown": {
-      "2025-09-11": 0,
+      "2025-09-11": 14,
       "2025-01-07": 18,
       "2024-09-27": 15
     }
@@ -221,9 +222,9 @@
     "url": "https://www.annakorshun.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.annakorshun.com.ico",
     "slug": "web-annakorshun",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -233,6 +234,7 @@
     "timeMonth": 957,
     "timeYear": 910,
     "dailyMinutesDown": {
+      "2025-09-11": 0,
       "2025-01-07": 18
     }
   },
@@ -241,9 +243,9 @@
     "url": "https://www.tergology.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tergology.com.ico",
     "slug": "web-tergology",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -253,6 +255,7 @@
     "timeMonth": 797,
     "timeYear": 806,
     "dailyMinutesDown": {
+      "2025-09-11": 0,
       "2025-01-07": 17
     }
   }
