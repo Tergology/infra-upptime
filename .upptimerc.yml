@@ -6,8 +6,8 @@ sites:
     url: https://auth.$TLG_DOMAIN
   - name: Cloud
     url: https://cloud.$TLG_DOMAIN
-  - name: Code
-    url: https://code.$TLG_DOMAIN
+  - name: Forge
+    url: https://forge.$TLG_DOMAIN
   - name: Mail
     url: https://mail.$TLG_DOMAIN
   - name: Mail - store
