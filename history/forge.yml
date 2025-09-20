@@ -1,7 +1,7 @@
 url: https://forge.$TLG_DOMAIN
-status: up
-code: 200
-responseTime: 604
-lastUpdated: 2025-09-19T23:13:22.766Z
+status: down
+code: 502
+responseTime: 543
+lastUpdated: 2025-09-20T05:55:04.819Z
 startTime: 2025-09-11T21:14:50.913Z
 generator: Upptime <https://github.com/upptime/upptime>
