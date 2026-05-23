@@ -16,7 +16,7 @@ sites:
     check: "tcp-ping"
   - name: Mail - transfer
     url: mail.$TLG_DOMAIN
-    port: 587
+    port: 465
     check: "tcp-ping"
   - name: Meet
     url: https://meet.$TLG_DOMAIN
