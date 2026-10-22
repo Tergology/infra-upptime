@@ -27,20 +27,21 @@
     "url": "https://cloud.$TLG_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.$tlg_domain.ico",
     "slug": "cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1065,
-    "timeDay": 1179,
-    "timeWeek": 1088,
-    "timeMonth": 1154,
-    "timeYear": 1088,
+    "time": 1064,
+    "timeDay": 737,
+    "timeWeek": 989,
+    "timeMonth": 1126,
+    "timeYear": 1086,
     "dailyMinutesDown": {
       "2025-12-13": 26,
-      "2025-12-19": 28
+      "2025-12-19": 28,
+      "2026-10-22": 0
     }
   },
   {
@@ -72,20 +73,21 @@
     "url": "https://mail.$TLG_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/mail.$tlg_domain.ico",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 579,
-    "timeDay": 521,
-    "timeWeek": 516,
-    "timeMonth": 561,
-    "timeYear": 572,
+    "time": 578,
+    "timeDay": 408,
+    "timeWeek": 488,
+    "timeMonth": 552,
+    "timeYear": 571,
     "dailyMinutesDown": {
       "2025-12-13": 26,
-      "2025-12-19": 28
+      "2025-12-19": 28,
+      "2026-10-22": 0
     }
   },
   {
